@@ -1,4 +1,4 @@
-## I Cloned the angular-seed project to create this. The README.md file contains information about that tool
+## I Cloned the angular-seed project to create this. The SEEDREADME.md file contains information about that tool
 
 This is the quick start. If you need more detailed help, please refer to the SEEDREADME.md
 
