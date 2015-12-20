@@ -1,5 +1,5 @@
 ## The App is a very simple demonstration of state following in an iFrame
-**This project assumes same origin of iframe content** 
+**_This project assumes same origin of iframe content_** 
 ### Key requirements:
  * do not show the parameters used within the iFrame in the main navigation bar
  * ensure bookmarking preserves the same view in the iFrame that existed when bookmarked
