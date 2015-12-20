@@ -13,3 +13,4 @@
  What about query parameters. Use the same technique: 1. store the query string in localStorage; 2. Allow the iframe
  directive to reconstruct the URL with the query string attached.
  
+### Topics NOT addressed - Same Origin Policy and CORS 
